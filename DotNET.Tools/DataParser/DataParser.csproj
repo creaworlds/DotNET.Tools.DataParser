@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <RootNamespace>DotNET.Tools</RootNamespace>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>CreaWorlds.DotNET.Tools.DataParser</PackageId>
+    <Authors>Antony Acuña</Authors>
+    <Company>CreaWorlds</Company>
+    <Description>A .NET library for populate an Array of Objects from DataTable</Description>
+    <Copyright>http://creaworlds.com/</Copyright>
+    <PackageLicenseUrl>https://www.apache.org/licenses/LICENSE-2.0</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/creaworlds/DotNET.Tools.DataParser</PackageProjectUrl>
+    <RepositoryUrl></RepositoryUrl>
+    <PackageTags>DataTable Deserialize Object</PackageTags>
+    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
+  </PropertyGroup>
+
+</Project>
